@@ -1,6 +1,6 @@
 # Laboratory work №1:  _Software Design Techniques and Mechanisms_
-## Topic: _Creational Design Patterns_
-## Author: _Vangheli Dumitru, FAF-193_
+# Topic: _Creational Design Patterns_
+# Author: _Vangheli Dumitru, FAF-193_
 
 ---
 ## Table of contents:
