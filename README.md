@@ -27,7 +27,7 @@ In this laboratory work were been implemented `Creational Design Patterns`. What
 * ### 3) Factory
 
 >A factory method is an ancestral design pattern that defines a common interface for creating objects in a superclass, allowing subclasses to change the type of objects they create.
-![Factory](https://i.stack.imgur.com/N3mC1.png)
+![Factory](https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png)
 
 * ### 4) Singleton
 
@@ -46,6 +46,7 @@ The mandatory attributes to be in instance of `Product` are Name, Expiration Dat
 Also, all mandatory attributes are randomly generated in `Factory`, which are discussed further.
 
 The example of `Builder` in BakeryProducts class:
+
 ```java
     static class Builder{
         private final String name;
@@ -153,3 +154,7 @@ The example code of `Manager`:
 
 - ### The output
 ![image](https://user-images.githubusercontent.com/6358475/135915723-042cf3a9-bce6-4e47-9ad3-07b881c0ac30.png)
+
+
+## Conclusions 
+After completing this implementation I have reached to the conclusion that Creational Desingn Patterns provide object creation mechanisms that can create objects in a controlled manner that are suitable to the situation.In this way, they help reduce complexities and instability, while also offering increased flexibility and allowing for the reuse of code.
