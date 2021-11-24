@@ -17,7 +17,7 @@ In this laboratory work were been implemented `Creational Design Patterns`. What
 * ### 1) Builder
 
 >The Builder Pattern separates the construction of a complex object from its representation so that different representations can result from the same design process.
-![Builder](https://refactoring.guru/images/patterns/diagrams/builder/solution1.png)
+![Builder](https://upload.wikimedia.org/wikipedia/ru/2/28/Builder.gif)
 
 * ### 2) Abstract factory
 
@@ -27,7 +27,7 @@ In this laboratory work were been implemented `Creational Design Patterns`. What
 * ### 3) Factory
 
 >A factory method is an ancestral design pattern that defines a common interface for creating objects in a superclass, allowing subclasses to change the type of objects they create.
-![Factory](https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png)
+![Factory](https://i.stack.imgur.com/N3mC1.png)
 
 * ### 4) Singleton
 
